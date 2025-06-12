@@ -10,6 +10,8 @@
   </ul>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Telecoms+Engineer;Problem+Solver;Competitive+Programmer;Student)](https://github.com/uniquesonu)
+
 ### Technical Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -22,3 +24,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+# 💫About Me :
+🔭 Productivity is my Priority.
+
+🌏 I’m currently pursuing BSC.TE from UDSM.
+
+
+💻 I’m looking forward to collaborating with other developers and creators
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
