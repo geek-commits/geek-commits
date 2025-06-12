@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Telecoms+Engineer;Problem+Solver;Competitive+Programmer;Student)](https://github.com/uniquesonu)
 
 ### Technical Skills
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
