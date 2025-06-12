@@ -10,6 +10,7 @@
   </ul>
 </div>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Telecoms+Engineer;Problem+Solver;Competitive+Programmer;Student)](https://github.com/uniquesonu)
 
 ### Technical Skills
@@ -41,3 +42,4 @@
 [![](https://visitcount.itsvg.in/api?id=geek-commits&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
